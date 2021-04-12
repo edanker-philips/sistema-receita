@@ -19,7 +19,7 @@ java -jar SincronizacaoReceita.jar "C://ArquivoReceita.csv"
 
 SincronizacaoReceita.jar -> <br> Encontrado em: https://github.com/edanker-philips/sistema-receita/blob/main/SincronizacaoReceita.jar
 
-C://ArquivoReceita.csv -> <br> Exemplo utilizado encontrado em: https://github.com/edanker-philips/sistema-receita/blob/main/ArquivoReceita.csv
+ArquivoReceita.csv -> <br> Exemplo utilizado encontrado em: https://github.com/edanker-philips/sistema-receita/blob/main/ArquivoReceita.csv
 
 Arquivo CSV de exemplo: 
 
