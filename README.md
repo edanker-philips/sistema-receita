@@ -15,7 +15,7 @@ InteliJJ IDEA, Java JDK 11, Maven, OpenCSV, SpringBoot
 
 Exemplo de utilização/execução:
 
-java -jar SincronizacaoReceita.jar "C://ArquivoReceita.csv"
+java -jar SincronizacaoReceita.jar "C://Testes//ArquivoReceita.csv"
 
 SincronizacaoReceita.jar -> <br> Encontrado em: https://github.com/edanker-philips/sistema-receita/blob/main/SincronizacaoReceita.jar
 
@@ -31,5 +31,17 @@ agencia;conta;saldo;status <br>
 3202;54001-2;0,00;P <br>
 3202;00321-2;34500,00;B <br>
 
-Arquivo de saída gerado no mesmo diretório do arquivo de entrada informado com nome: "ArquivoReceitaProcessado.csv"
-Adicionado coluna "resultado" ao CSV com valor P -> Processado com sucesso / E -> Erro no processamento
+-- Arquivo de saída gerado no diretório raiz do arquivo csv de entrada: "ArquivoReceita.csv"
+-- Adicionado coluna "resultado" ao CSV com valor P -> Processado com sucesso / E -> Erro no processamento
+
+Ex.:
+Entrada: <br>
+
+"C://Testes//ArquivoReceita.csv"
+
+Saída: <br>
+
+"C://ArquivoReceitaProcessado.csv"
+
+
+
