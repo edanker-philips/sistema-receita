@@ -20,9 +20,9 @@ java -jar SincronizacaoReceita.jar "C://ArquivoReceita.csv"
 SincronizacaoReceita.jar -> <br> Encontrado em: https://github.com/edanker-philips/sistema-receita/blob/main/SincronizacaoReceita.jar
 
 ArquivoReceita.csv -> <br> Entrada de exemplo utilizada nos testes encontrado em: https://github.com/edanker-philips/sistema-receita/blob/main/ArquivoReceita.csv
-Obs.: O nome/conteúdo pode ser alterado, utilizado apenas o exemplo passado no desafio.
+Obs.: O nome do arquivo e quantidade de registros pode ser alterado, apenas usado como exemplo neste caso.
 
-Arquivo CSV de exemplo utilizado: 
+Conteúdo arquivo CSV de exemplo utilizado: 
 
 agencia;conta;saldo;status <br>
 0101;12225-6;100,00;A <br>
